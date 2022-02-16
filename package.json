@@ -1,0 +1,11 @@
+{
+  "name": "api-instgram.js",
+  "version": "1.0.0",
+  "description": "Instagram public api wrapper",
+  "main": ".index.js",
+  "author": "Moezilla",
+  "license": "MIT",
+  "dependencies": {
+    "@sapphire/fetch": "^2.0.4"
+  }
+}
